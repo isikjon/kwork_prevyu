@@ -1,0 +1,6 @@
+aiogram
+pywin32
+Pillow
+python-dotenv
+aiohttp
+aiofiles
